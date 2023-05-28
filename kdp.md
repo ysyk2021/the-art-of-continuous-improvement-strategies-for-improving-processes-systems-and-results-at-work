@@ -39,5 +39,5 @@ MingHai Zheng is a writer based in Wuhan, China, who focuses on writing articles
 17. Customer experience management
 18. Supply chain management
 19. Sustainability practices
-20. Personal development.
+20. Personal development
 
