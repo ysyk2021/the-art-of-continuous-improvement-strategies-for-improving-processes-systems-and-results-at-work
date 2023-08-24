@@ -1,5 +1,3 @@
-Chapter 7: Managing Change and Overcoming Resistance
-====================================================
 
 Continuous improvement often requires significant changes to processes, systems, and organizational structures. These changes can be met with resistance from employees and stakeholders who are resistant to change. This chapter will explore strategies for managing change and overcoming resistance, building resilience, and communicating effectively during times of change.
 

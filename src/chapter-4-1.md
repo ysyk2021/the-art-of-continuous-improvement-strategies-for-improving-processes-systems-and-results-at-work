@@ -1,5 +1,3 @@
-Understanding the Importance of Data and Metrics in Continuous Improvement
-=============================================================================================================================
 
 Data and metrics are critical for identifying areas for improvement, setting targets, and evaluating the effectiveness of improvement efforts over time. In this chapter, we will explore the importance of data and metrics in continuous improvement, how to select the right metrics for improvement, and strategies for using data to drive improvement.
 

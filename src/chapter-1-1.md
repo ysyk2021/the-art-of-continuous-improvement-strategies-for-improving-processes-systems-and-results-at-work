@@ -1,5 +1,3 @@
-Defining Continuous Improvement and Its Importance in the Modern Workplace
-=============================================================================================================================
 
 Continuous improvement is a method of ongoing change and adaptation that organizations use to achieve better outcomes over time. In this chapter, we will define continuous improvement and explore its importance in the modern workplace.
 

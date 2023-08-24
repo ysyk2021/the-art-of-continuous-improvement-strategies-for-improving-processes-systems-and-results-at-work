@@ -1,5 +1,3 @@
-Communicating Effectively During Times of Change
-======================================================================================================
 
 Managing change and overcoming resistance is critical for achieving sustained success in any organization. In this chapter, we will explore strategies for communicating effectively during times of change.
 

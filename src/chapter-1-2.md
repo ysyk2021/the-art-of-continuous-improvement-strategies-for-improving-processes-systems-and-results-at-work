@@ -1,5 +1,3 @@
-Historical Perspectives on Continuous Improvement Theory and Practice
-========================================================================================================================
 
 Continuous improvement has been a topic of interest for many years, with roots in both Eastern and Western philosophy. In this chapter, we will explore historical perspectives on continuous improvement theory and practice.
 

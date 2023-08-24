@@ -1,5 +1,3 @@
-Fostering Clear Communication and Expectations
-=========================================================================================================
 
 Developing a culture of continuous improvement is essential to driving better outcomes in the workplace. In this chapter, we will explore strategies for fostering clear communication and expectations within a culture of continuous improvement.
 

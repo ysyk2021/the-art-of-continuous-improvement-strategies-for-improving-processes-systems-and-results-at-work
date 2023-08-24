@@ -1,5 +1,3 @@
-Encouraging Ownership and Follow-through
-===================================================================================================
 
 Developing a culture of continuous improvement is critical for achieving sustained success in any organization. In this chapter, we will explore strategies for encouraging ownership and follow-through in developing a culture of continuous improvement.
 

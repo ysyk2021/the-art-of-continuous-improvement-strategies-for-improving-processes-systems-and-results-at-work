@@ -1,5 +1,3 @@
-Chapter 8: Measuring and Evaluating Improvement Performance
-===========================================================
 
 Measuring and evaluating improvement performance is critical to achieving success in continuous improvement initiatives. In this chapter, we will explore the importance of measuring and evaluating improvement performance, using data and metrics to track progress and success, and adjusting improvement strategies as needed.
 

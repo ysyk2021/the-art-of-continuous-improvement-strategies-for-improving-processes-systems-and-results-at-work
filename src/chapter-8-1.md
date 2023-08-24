@@ -1,5 +1,3 @@
-Understanding the Importance of Measuring and Evaluating Improvement Performance
-=============================================================================================================================================
 
 Measuring and evaluating improvement performance is critical for achieving sustained success in any organization. In this chapter, we will explore the importance of measuring and evaluating improvement performance, why it matters, and how it can help organizations achieve their goals.
 

@@ -1,5 +1,3 @@
-Chapter 2: Understanding Process Improvement
-============================================
 
 Process improvement is an essential element of continuous improvement. In this chapter, we will explore the different types of processes that can be improved, how to identify areas for improvement within existing processes, and skills for analyzing and optimizing processes.
 

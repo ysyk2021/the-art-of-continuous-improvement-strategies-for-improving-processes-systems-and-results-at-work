@@ -1,5 +1,3 @@
-Understanding the Different Technologies and Tools Available for Continuous Improvement
-===================================================================================================================================================
 
 Leveraging technology and tools is critical for achieving sustained success in any organization. In this chapter, we will explore different technologies and tools available for continuous improvement and how they can be used to support improvement efforts.
 

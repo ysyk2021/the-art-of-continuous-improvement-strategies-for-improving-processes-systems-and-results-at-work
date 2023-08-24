@@ -1,5 +1,3 @@
-Chapter 4: Using Data and Metrics for Improvement
-=================================================
 
 Continuous improvement is a process that relies heavily on the collection, analysis, and use of data to identify areas for improvement and measure progress. This chapter will explore the importance of data and metrics in continuous improvement, the methods used to collect and analyze data, and how to choose appropriate metrics to measure progress and success.
 

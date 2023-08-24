@@ -1,5 +1,3 @@
-Choosing Appropriate Metrics to Measure Progress and Success
-===============================================================================================================
 
 Choosing appropriate metrics is essential for measuring progress and success in continuous improvement efforts. In this chapter, we will explore the importance of choosing appropriate metrics, how to select metrics that align with organizational goals, and strategies for monitoring and evaluating metrics effectively.
 

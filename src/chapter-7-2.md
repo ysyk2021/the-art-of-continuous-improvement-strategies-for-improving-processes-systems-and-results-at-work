@@ -1,5 +1,3 @@
-Building Resilience and Managing Stress During Times of Change
-====================================================================================================================
 
 Managing change and overcoming resistance is essential to continuous improvement in the workplace. In this chapter, we will explore strategies for building resilience and managing stress during times of change.
 

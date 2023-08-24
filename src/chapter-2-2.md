@@ -1,5 +1,3 @@
-Identifying Areas for Improvement within Existing Processes
-=========================================================================================================
 
 Understanding process improvement is essential to continuous improvement in the workplace. In this chapter, we will explore strategies for identifying areas for improvement within existing processes.
 

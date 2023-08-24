@@ -1,5 +1,3 @@
-Adjusting Improvement Strategies as Needed
-=======================================================================================================
 
 Measuring and evaluating improvement performance is critical for achieving sustained success in any organization; however, it is equally important to adjust improvement strategies as needed. In this chapter, we will explore the importance of adjusting improvement strategies, how to identify when adjustments are necessary, and strategies for making adjustments effectively.
 

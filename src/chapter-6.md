@@ -1,5 +1,3 @@
-Chapter 6: Leveraging Technology and Tools for Improvement
-==========================================================
 
 Continuous improvement involves the use of technology and tools to enhance processes, systems, and results. This chapter will explore the different technologies and tools available for continuous improvement, how to select and implement them effectively, and how to use technology and data to track and enhance improvement efforts.
 

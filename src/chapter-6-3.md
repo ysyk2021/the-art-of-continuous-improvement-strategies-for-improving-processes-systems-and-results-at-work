@@ -1,5 +1,3 @@
-Using Technology and Data to Track and Enhance Improvement Efforts
-==============================================================================================================================
 
 Technology and data can be powerful enablers in continuous improvement efforts, providing organizations with the ability to collect and analyze data, automate processes, and collaborate more effectively. In this chapter, we will explore the importance of using technology and data, how to use data to track improvement efforts, and strategies for enhancing improvement efforts using technology.
 

@@ -1,5 +1,3 @@
-Developing Strategies for Managing Change and Overcoming Resistance to Improvement
-========================================================================================================================================
 
 Managing change and overcoming resistance is essential to continuous improvement in the workplace. In this chapter, we will explore strategies for developing effective strategies for managing change and overcoming resistance to improvement.
 

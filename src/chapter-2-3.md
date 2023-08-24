@@ -1,5 +1,3 @@
-Building Skills for Analyzing and Optimizing Processes
-====================================================================================================
 
 Understanding process improvement is essential to continuous improvement in the workplace. In this chapter, we will explore strategies for building skills for analyzing and optimizing processes.
 

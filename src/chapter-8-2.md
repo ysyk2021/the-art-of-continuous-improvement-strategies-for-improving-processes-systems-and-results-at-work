@@ -1,5 +1,3 @@
-Using Data and Metrics to Track Progress and Success
-=================================================================================================================
 
 Measuring and evaluating improvement performance is critical for achieving sustained success in any organization. In this chapter, we will explore the importance of using data and metrics, how to select the right metrics, and strategies for tracking progress and evaluating success.
 

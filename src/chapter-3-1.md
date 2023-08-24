@@ -1,5 +1,3 @@
-Developing Strategies for Creating a Culture of Continuous Improvement
-=================================================================================================================================
 
 Developing a culture of continuous improvement is essential to driving better outcomes in the workplace. In this chapter, we will explore strategies for developing effective strategies for creating a culture of continuous improvement.
 

@@ -1,5 +1,3 @@
-Creating Action Plans for Implementing Improvements
-===================================================================================================
 
 Implementing improvement strategies involves creating action plans that outline the specific steps required to achieve improvement goals. In this chapter, we will explore the importance of implementing improvement strategies, how to create effective action plans, and strategies for managing change effectively.
 
