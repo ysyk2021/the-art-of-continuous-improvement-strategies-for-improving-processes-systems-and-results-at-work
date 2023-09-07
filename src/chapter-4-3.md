@@ -1,36 +1,83 @@
+第七章：选择适当的度量指标来衡量进展和成功
+=====================
 
-Choosing appropriate metrics is essential for measuring progress and success in continuous improvement efforts. In this chapter, we will explore the importance of choosing appropriate metrics, how to select metrics that align with organizational goals, and strategies for monitoring and evaluating metrics effectively.
+引言
+---
 
-The Importance of Choosing Appropriate Metrics
-----------------------------------------------
+在持续改进中，衡量进展和成功非常重要。本章将探讨选择适当的度量指标的过程，这些指标能够准确反映出所取得的进展，并帮助确定改进工作的成功。通过选择与目标相符的有意义的度量指标，您可以跟踪战略影响并基于数据做出决策，推动持续改进。
 
-Metrics provide objective measurements of progress and success and help organizations to track performance towards their goals. However, selecting the wrong metrics can lead to unintended consequences, such as focusing on the wrong areas or incentivizing behaviors that do not align with organizational goals.
+##明确目标和结果
 
-Choosing appropriate metrics is crucial to ensure that organizations are measuring what matters and that their efforts are aligned with their broader objectives.
+### 确立明确的目标
 
-Selecting Metrics That Align With Organizational Goals
-------------------------------------------------------
+在选择度量指标之前，确立与改进目标相一致的明确目标非常重要。这些目标应具体、可衡量、可实现、相关和时限性 (SMART)。明确的目标为选择能够有效评估实现这些目标的进展的度量指标提供了基础。
 
-To choose appropriate metrics, it's essential to ensure that they align with organizational goals. This involves:
+### 确定期望的结果
 
-* Defining clear goals and objectives: Define what you want to achieve and how metrics will be used to measure progress towards those goals.
-* Identifying relevant metrics: Identify metrics that align with organizational goals and provide insights into progress towards those goals.
-* Ensuring metrics are measurable: Ensure that metrics are objectively measurable and can be tracked consistently over time.
-* Monitoring and adjusting metrics regularly: Monitor metrics regularly and adjust them as needed to ensure that they continue to align with organizational goals.
+确定与改进目标相关联的期望结果。这些结果可以包括提高效率、降低成本、提高质量、增强客户满意度或缩短交货时间。了解您的目标是什么将指导选择直接测量这些结果的度量指标。
 
-Strategies for Monitoring and Evaluating Metrics Effectively
-------------------------------------------------------------
+衡量进展和成功的度量指标类型
+--------------
 
-Once metrics have been selected, it's important to monitor and evaluate them effectively. This involves:
+### 输入指标
 
-* Establishing a baseline: Establish a baseline measurement to understand current performance levels.
-* Setting targets: Set realistic targets for improvement based on your organizational goals and historical performance data.
-* Tracking progress: Regularly track progress towards targets and adjust course as necessary.
-* Evaluating impact: Evaluate the impact of changes made to processes or systems by comparing performance data before and after the change.
+输入指标评估完成一个过程所需的资源和输入。例如，劳动时间、材料成本或设备利用率。这些指标提供资源配置和有效利用输入的洞察。
 
-By monitoring and evaluating metrics effectively, organizations can identify areas for improvement, measure progress towards goals, and ensure that their efforts are aligned with their broader objectives.
+### 流程指标
 
-Conclusion
-----------
+流程指标评估特定流程的效率和效果。它们衡量循环时间、误差率或吞吐量等因素。流程指标有助于识别工作流中的瓶颈、低效和改进区域。
 
-Choosing appropriate metrics is crucial for measuring progress and success in continuous improvement efforts. By selecting metrics that align with organizational goals, ensuring they are measurable, and monitoring and evaluating them effectively, organizations can track performance, identify areas for improvement, and achieve sustainable success. Ultimately, using appropriate metrics can help drive a culture of continuous improvement by providing objective measurements of progress towards organizational goals.
+### 输出指标
+
+输出指标衡量一个过程的结果或输出。这些指标可以包括客户满意度得分、缺陷率、按时交付或产生的收入。输出指标直接评估改进工作对整体业务绩效的影响。
+
+### 领先指标
+
+领先指标是前瞻性的指标，提供未来改进的初步见解。这些指标根据当前趋势或行为预测未来的绩效。例如，客户咨询、员工参与度得分或市场份额增长。领先指标有助于在问题出现之前识别可能需要关注的领域。
+
+### 滞后指标
+
+滞后指标衡量过去活动的结果，通常与已经发生的结果相关。例如，客户投诉、财务绩效或员工流动率。滞后指标提供对改进工作效果的回顾性见解。
+
+选择适当的度量指标
+---------
+
+### 与目标和结果的一致性
+
+选择与定义的目标和期望结果直接一致的度量指标。确保指标与其所代表的改进目标之间存在明确的联系。选择能够提供有意义且可操作见解的度量指标。
+
+### 可衡量性和数据可用性
+
+考虑测量所选指标所需的数据的可用性和可获取性。确保必要的数据可以以一致且准确的方式进行收集。避免选择依赖于不可靠或无法访问的数据来源的度量指标。
+
+### 相关性和重要性
+
+选择与组织整体目标和价值观相关且重要的度量指标。考虑度量指标对业务绩效、客户满意度或利益相关者期望的影响。优先考虑捕捉运营关键方面并反映组织重点改进领域的度量指标。
+
+### 平衡和整体视图
+
+选择一套平衡的度量指标，以提供对改进工作的整体视图。考虑定量和定性度量指标，以捕捉进展和成功的不同方面。避免仅依赖于一种类型的度量指标，因为它可能无法提供完整的画面。
+
+实施和监控度量指标
+---------
+
+### 建立基准和目标
+
+为每个选定的度量指标设置基准，以建立衡量的起点。确定代表所期望绩效水平的目标值或范围。这些基准和目标将作为随时间跟踪进展和评估成功的基准。
+
+### 收集和分析数据
+
+实施收集和分析所需数据的系统和流程，以测量选定的度量指标。确保数据能够一致、准确、及时地收集。利用适当的工具和技术进行数据分析，从收集的数据中得出有意义的见解。
+
+### 定期监控和报告
+
+建立定期监控和报告机制，跟踪选定的度量指标的进展。设置定期审查，评估绩效、识别趋势，并根据需要采取纠正措施。向相关利益相关者传达进展和结果，以保持透明度和问责制。
+
+### 持续评估和调整
+
+持续评估选择的度量指标的有效性和相关性。定期审查它们是否与不断变化的目标、结果或组织优先事项相一致。根据需要进行调整，确保所选的度量指标与改进目标保持一致。
+
+结论
+---
+
+在持续改进工作中，选择适当的度量指标对于准确衡量进展和成功至关重要。通过明确目标和结果、了解不同类型的可用度量指标、选择与目标和结果相符的度量指标，以及有效实施和监测这些度量指标，您可以获得有价值的见解，了解改进战略的影响。持续评估和调整度量指标，确保其保持相关性，并反映出不断发展的改进工作。
