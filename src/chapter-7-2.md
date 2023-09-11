@@ -1,5 +1,4 @@
-Chapter 11: Building Resilience and Managing Stress During Times of Change
-==========================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of building resilience and managing stress during times of change. Organizations undergoing continuous improvement initiatives often experience periods of significant change, which can lead to increased stress levels among employees. By understanding the impact of change on individuals and providing tools to build resilience and manage stress effectively, organizations can support their workforce through these challenging times.
 

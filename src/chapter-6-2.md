@@ -1,5 +1,4 @@
-Chapter 6: Selecting and Implementing Tools That Are Best Suited to Your Improvement Goals
-==========================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 Introduction
 ------------

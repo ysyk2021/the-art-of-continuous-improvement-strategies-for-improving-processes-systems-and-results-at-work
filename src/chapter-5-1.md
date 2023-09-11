@@ -1,5 +1,4 @@
-Chapter 8: Developing Effective Improvement Strategies
-======================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the process of developing effective improvement strategies. Developing well-defined and actionable improvement strategies is essential for organizations to drive successful continuous improvement initiatives. By following a systematic approach and considering key factors, organizations can develop strategies that maximize results and bring about sustainable improvements.
 

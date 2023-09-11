@@ -1,5 +1,4 @@
-Chapter 10: Using Data and Metrics to Track Progress and Success
-================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of using data and metrics to track progress and success in continuous improvement efforts. Effective measurement and analysis of data provide valuable insights into the effectiveness of improvement initiatives, identify areas for further enhancement, and drive informed decision-making. This chapter will delve into the significance of data-driven approaches and outline strategies for leveraging data and metrics to track progress and achieve success.
 

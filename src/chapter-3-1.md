@@ -1,5 +1,4 @@
-Chapter 8: Developing Strategies for Creating a Culture of Continuous Improvement
-=================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of developing strategies for creating a culture of continuous improvement. A culture of continuous improvement is characterized by a mindset and behaviors that prioritize learning, innovation, and ongoing growth. Establishing such a culture is essential for organizations to adapt to change, drive sustainable improvements, and achieve long-term success. In this chapter, we will discuss key strategies for fostering a culture of continuous improvement within the workplace.
 

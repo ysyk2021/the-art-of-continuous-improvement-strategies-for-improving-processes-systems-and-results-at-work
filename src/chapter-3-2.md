@@ -1,5 +1,4 @@
-Chapter 6: Fostering Clear Communication and Expectations
-=========================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of fostering clear communication and expectations in driving successful continuous improvement initiatives. Effective communication and setting clear expectations are essential for ensuring alignment, collaboration, and successful outcomes. By establishing a foundation of transparent and consistent communication, organizations can foster clarity, engagement, and a shared understanding of goals and expectations.
 

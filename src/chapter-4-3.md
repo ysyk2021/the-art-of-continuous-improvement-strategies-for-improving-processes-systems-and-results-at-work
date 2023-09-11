@@ -1,5 +1,4 @@
-第七章：选择适当的度量指标来衡量进展和成功
-=====================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 引言
 ---

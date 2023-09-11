@@ -1,5 +1,4 @@
-Chapter 7: Encouraging Ownership and Follow-Through
-===================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of encouraging ownership and follow-through in driving successful continuous improvement initiatives. Establishing a culture of ownership and accountability is essential for sustaining improvements and achieving long-term success. By fostering a sense of ownership and ensuring follow-through on improvement actions, organizations can empower their employees to take initiative, drive change, and achieve desired results.
 

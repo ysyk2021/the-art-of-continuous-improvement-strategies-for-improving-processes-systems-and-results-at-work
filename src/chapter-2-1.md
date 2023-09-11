@@ -1,5 +1,4 @@
-Chapter 9: Recognizing the Different Types of Processes That Can Be Improved
-============================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter, we will explore the various types of processes that can be improved in "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work." Understanding the different types of processes is essential for identifying improvement opportunities and implementing effective strategies. By recognizing these process categories, organizations can focus their efforts on enhancing specific areas that are critical to achieving desired outcomes.
 

@@ -1,5 +1,4 @@
-Chapter 6: Creating Action Plans for Implementing Improvements
-==============================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of creating action plans for implementing improvements. A well-defined action plan serves as a roadmap for organizations to effectively execute improvement initiatives and achieve desired outcomes. By following a structured approach and considering key elements, organizations can ensure successful implementation of improvements.
 

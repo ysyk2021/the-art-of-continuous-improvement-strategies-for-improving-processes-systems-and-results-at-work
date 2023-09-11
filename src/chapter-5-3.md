@@ -1,5 +1,4 @@
-Chapter 12: Monitoring Progress and Adjusting Strategies as Needed
-==================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of monitoring progress and adjusting strategies as needed. Continuous improvement requires organizations to regularly assess their initiatives, track progress, and make necessary adjustments to ensure success. By implementing robust monitoring systems and being proactive in adapting strategies, organizations can stay on track towards achieving their improvement goals.
 

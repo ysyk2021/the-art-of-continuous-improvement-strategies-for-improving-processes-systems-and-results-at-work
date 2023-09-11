@@ -1,5 +1,4 @@
-Chapter 9: Developing Strategies for Managing Change and Overcoming Resistance to Improvement
-=============================================================================================
+**The current status of this chapter is draft. I will finish it later when I have time**
 
 *Introduction* In this chapter of "The Art of Continuous Improvement: Strategies for Improving Processes, Systems, and Results at Work," we will explore the importance of developing strategies for managing change and overcoming resistance to improvement. Implementing continuous improvement initiatives often requires organizational change, which can be met with resistance from employees and stakeholders. By understanding the dynamics of change and employing effective strategies, organizations can navigate through resistance, foster acceptance, and successfully drive improvement.
 
